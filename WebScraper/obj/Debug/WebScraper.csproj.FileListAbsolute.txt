@@ -1,0 +1,1 @@
+c:\users\gigaw\documents\visual studio 2015\Projects\WebScraper\WebScraper\bin\Debug\WebScraper.exe.config
